@@ -1,0 +1,2 @@
+User-agent: * Disallow:
+Sitemap: https://canwebe.netlify.app/sitemap.xml
