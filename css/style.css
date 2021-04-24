@@ -859,7 +859,7 @@ rcard p {
 
 .flex li {
     display: inline-block;
-    margin-left: 2%;
+    margin: 0 6.5px;
     font-size: 140%
 }
 
@@ -1479,7 +1479,6 @@ div.staffcard {
     .span-2-of-2 {
         width: 100%
     }
-
     .span-1-of-2 {
         width: 100%
     }
@@ -1501,18 +1500,15 @@ div.staffcard {
     .span-3-of-3 {
         width: 100%
     }
-
     .span-2-of-3 {
         width: 100%
     }
-
     .span-1-of-3 {
         width: 100%
     }
 }
 
 @-webkit-keyframes bounceInLeft {
-
     60%,
     75%,
     90%,
@@ -1521,29 +1517,24 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.215, .61, .355, 1);
         animation-timing-function: cubic-bezier(.215, .61, .355, 1)
     }
-
     0% {
         opacity: 0;
         -webkit-transform: translate3d(-3000px, 0, 0);
         transform: translate3d(-3000px, 0, 0)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: translate3d(25px, 0, 0);
         transform: translate3d(25px, 0, 0)
     }
-
     75% {
         -webkit-transform: translate3d(-10px, 0, 0);
         transform: translate3d(-10px, 0, 0)
     }
-
     90% {
         -webkit-transform: translate3d(5px, 0, 0);
         transform: translate3d(5px, 0, 0)
     }
-
     to {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0)
@@ -1551,7 +1542,6 @@ div.staffcard {
 }
 
 @keyframes bounceInLeft {
-
     60%,
     75%,
     90%,
@@ -1560,29 +1550,24 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.215, .61, .355, 1);
         animation-timing-function: cubic-bezier(.215, .61, .355, 1)
     }
-
     0% {
         opacity: 0;
         -webkit-transform: translate3d(-3000px, 0, 0);
         transform: translate3d(-3000px, 0, 0)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: translate3d(25px, 0, 0);
         transform: translate3d(25px, 0, 0)
     }
-
     75% {
         -webkit-transform: translate3d(-10px, 0, 0);
         transform: translate3d(-10px, 0, 0)
     }
-
     90% {
         -webkit-transform: translate3d(5px, 0, 0);
         transform: translate3d(5px, 0, 0)
     }
-
     to {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0)
@@ -1595,7 +1580,6 @@ div.staffcard {
 }
 
 @-webkit-keyframes bounceInRight {
-
     60%,
     75%,
     90%,
@@ -1604,29 +1588,24 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.215, .61, .355, 1);
         animation-timing-function: cubic-bezier(.215, .61, .355, 1)
     }
-
     from {
         opacity: 0;
         -webkit-transform: translate3d(3000px, 0, 0);
         transform: translate3d(3000px, 0, 0)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: translate3d(-25px, 0, 0);
         transform: translate3d(-25px, 0, 0)
     }
-
     75% {
         -webkit-transform: translate3d(10px, 0, 0);
         transform: translate3d(10px, 0, 0)
     }
-
     90% {
         -webkit-transform: translate3d(-5px, 0, 0);
         transform: translate3d(-5px, 0, 0)
     }
-
     to {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0)
@@ -1634,7 +1613,6 @@ div.staffcard {
 }
 
 @keyframes bounceInRight {
-
     60%,
     75%,
     90%,
@@ -1643,29 +1621,24 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.215, .61, .355, 1);
         animation-timing-function: cubic-bezier(.215, .61, .355, 1)
     }
-
     from {
         opacity: 0;
         -webkit-transform: translate3d(3000px, 0, 0);
         transform: translate3d(3000px, 0, 0)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: translate3d(-25px, 0, 0);
         transform: translate3d(-25px, 0, 0)
     }
-
     75% {
         -webkit-transform: translate3d(10px, 0, 0);
         transform: translate3d(10px, 0, 0)
     }
-
     90% {
         -webkit-transform: translate3d(-5px, 0, 0);
         transform: translate3d(-5px, 0, 0)
     }
-
     to {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0)
@@ -1681,7 +1654,6 @@ div.staffcard {
     from {
         opacity: 0
     }
-
     to {
         opacity: 1
     }
@@ -1691,7 +1663,6 @@ div.staffcard {
     from {
         opacity: 0
     }
-
     to {
         opacity: 1
     }
@@ -1708,7 +1679,6 @@ div.staffcard {
         -webkit-transform: translate3d(0, -100%, 0);
         transform: translate3d(0, -100%, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1722,7 +1692,6 @@ div.staffcard {
         -webkit-transform: translate3d(0, -100%, 0);
         transform: translate3d(0, -100%, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1741,7 +1710,6 @@ div.staffcard {
         -webkit-transform: translate3d(-100%, 0, 0);
         transform: translate3d(-100%, 0, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1755,7 +1723,6 @@ div.staffcard {
         -webkit-transform: translate3d(-100%, 0, 0);
         transform: translate3d(-100%, 0, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1774,7 +1741,6 @@ div.staffcard {
         -webkit-transform: translate3d(100%, 0, 0);
         transform: translate3d(100%, 0, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1788,7 +1754,6 @@ div.staffcard {
         -webkit-transform: translate3d(100%, 0, 0);
         transform: translate3d(100%, 0, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1807,7 +1772,6 @@ div.staffcard {
         -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1821,7 +1785,6 @@ div.staffcard {
         -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0)
     }
-
     to {
         opacity: 1;
         -webkit-transform: translate3d(0, 0, 0);
@@ -1840,7 +1803,6 @@ div.staffcard {
         -webkit-transform: scale3d(.3, .3, .3);
         transform: scale3d(.3, .3, .3)
     }
-
     50% {
         opacity: 1
     }
@@ -1852,7 +1814,6 @@ div.staffcard {
         -webkit-transform: scale3d(.3, .3, .3);
         transform: scale3d(.3, .3, .3)
     }
-
     50% {
         opacity: 1
     }
@@ -1871,7 +1832,6 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.55, .055, .675, .19);
         animation-timing-function: cubic-bezier(.55, .055, .675, .19)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: scale3d(.475, .475, .475) translate3d(0, 60px, 0);
@@ -1889,7 +1849,6 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.55, .055, .675, .19);
         animation-timing-function: cubic-bezier(.55, .055, .675, .19)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: scale3d(.475, .475, .475) translate3d(0, 60px, 0);
@@ -1912,7 +1871,6 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.55, .055, .675, .19);
         animation-timing-function: cubic-bezier(.55, .055, .675, .19)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: scale3d(.475, .475, .475) translate3d(0, -60px, 0);
@@ -1930,7 +1888,6 @@ div.staffcard {
         -webkit-animation-timing-function: cubic-bezier(.55, .055, .675, .19);
         animation-timing-function: cubic-bezier(.55, .055, .675, .19)
     }
-
     60% {
         opacity: 1;
         -webkit-transform: scale3d(.475, .475, .475) translate3d(0, -60px, 0);
