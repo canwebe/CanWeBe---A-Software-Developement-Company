@@ -947,6 +947,11 @@ rcard p {
     border-radius: 5px 5px 0 0
 }
 
+div.lowSlider:hover{
+    height: 70%;
+    border-radius: 5px 5px 0 0
+}
+
 .border-blue {
     position: absolute;
     top: 0;
