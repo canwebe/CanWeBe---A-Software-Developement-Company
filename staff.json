@@ -16,7 +16,7 @@
   {
     "name": "GANESH TIWARI",
     "id": "C202003",
-    "role": "AI Developer",
+    "role": "Developer",
     "image": "/img/ganesh.webp",
     "bio": "Ganesh is an outstanding asset with astonishing skills in AI, In addition to his primary job function, he has been assisting with web dev magnificently.Now he is studying in B.E for CSE."
   },
@@ -26,13 +26,6 @@
     "role": "Creative director , Developer",
     "image": "/img/shubham.webp",
     "bio": "Shubham is a committed developer, data analyst, and creative critique, driven by zeal & hunger to learn and takes pride in providing the best results possible."
-  },
-  {
-    "name": "Bishwa Pratap",
-    "id": "C202006",
-    "role": "Software Developer",
-    "image": "/img/bishwa.webp",
-    "bio": "Bishwa is a full-stack web developer with knowledge of python and an expert in Flask and Django for the backend. Bishwa is also designing CWB's UI/UX. He is now pursuing his BCA Degree from SaIT. "
   },
   {
     "name": "Hirak J Kalita",
@@ -47,5 +40,12 @@
     "role": "Developer",
     "image": "/img/Zahid.webp",
     "bio": "Zahid is our web dev planner and project presenter with exuberant learning and implementing skills,His function pool also includes team operations and PR incumbency."
+  },
+  {
+    "name": "Anish Tharu",
+    "id": "C202009",
+    "role": "Developer",
+    "image": "/img/anish.webp",
+    "bio": "Anish is our web developer and UI designer.He is great at designing currently pursuing his B.E in CSE.His development stack is latest and updated with current software industry."
   }
 ]
