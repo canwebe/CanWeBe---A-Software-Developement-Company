@@ -2,9 +2,9 @@
   {
     "name": "GOLAM RABBANI",
     "id": "C202001",
-    "role": "Founder, Developer,Director",
+    "role": "Founder , Developer",
     "image": "/img/rabbani.webp",
-    "bio": "Rabbani is the founder and designer of this website. He is a self-taught programmer, whose main groove is full-stack development and ML / AI. He is pursuing his B.E in Computer Science Engineering when he isn't working on projects,he is also the staff director of operations of the organization, mentoring all staff duties and responsibilities."
+    "bio": "Rabbani is the founder and designer of this website. He is a self-taught programmer, whose main groove is full-stack development and ML / AI. He is pursuing his B.E in Computer Science Engineering when he isn't working on projects."
   },
   {
     "name": "KAUSHIK DAS",
@@ -16,7 +16,7 @@
   {
     "name": "GANESH TIWARI",
     "id": "C202003",
-    "role": "AI & Web Developer",
+    "role": "AI Developer",
     "image": "/img/ganesh.webp",
     "bio": "Ganesh is an outstanding asset with astonishing skills in AI, In addition to his primary job function, he has been assisting with web dev magnificently.Now he is studying in B.E for CSE."
   },
@@ -28,24 +28,24 @@
     "bio": "Shubham is a committed developer, data analyst, and creative critique, driven by zeal & hunger to learn and takes pride in providing the best results possible."
   },
   {
+    "name": "Bishwa Pratap",
+    "id": "C202006",
+    "role": "Software Developer",
+    "image": "/img/bishwa.webp",
+    "bio": "Bishwa is a full-stack web developer with knowledge of python and an expert in Flask and Django for the backend. Bishwa is also designing CWB's UI/UX. He is now pursuing his BCA Degree from SaIT. "
+  },
+  {
     "name": "Hirak J Kalita",
     "id": "C202007",
-    "role": "Graphic Designer,Analyst",
+    "role": "Graphic Designer",
     "image": "/img/hirak.webp",
     "bio": "Hirak is Graphic Designer for CanWeBe. He designs all UI/UX and Graphics for CWB's project. He is an art expert and pursuing MSc in Comp. Science from Gauhati University."
   },
   {
     "name": "Mohd Zahid",
     "id": "C202008",
-    "role": "Developer,Project Maintainence Executive",
+    "role": "Developer",
     "image": "/img/Zahid.webp",
-    "bio": "Zahid is our web dev,Planner and Project presenter with exuberant learning and implementing skills,His function pool also includes team operations and PR incumbency."
-  },
-  {
-  "name":"Rejaul Hoque",
-   "role":"Co-ordination Ambassador",
-    "id":"C202009",
-    "image":"/img/rejaul.webp",
-    "bio":"Rejaul is our Project development associate who manages clientel and works with the team according to clientel requirements and organizations present resources.He epitomizes the organization as its Co-ordiantion ambassador",
+    "bio": "Zahid is our web dev planner and project presenter with exuberant learning and implementing skills,His function pool also includes team operations and PR incumbency."
   }
 ]
