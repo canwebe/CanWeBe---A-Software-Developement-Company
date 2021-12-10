@@ -2,16 +2,16 @@
   {
     "name": "GOLAM RABBANI",
     "id": "C202001",
-    "role": "Founder , Developer",
+    "role": "Co-Founder , Developer",
     "image": "/img/rabbani.webp",
     "bio": "Rabbani is the founder and designer of this website. He is a self-taught programmer, whose main groove is full-stack development and ML / AI. He is pursuing his B.E in Computer Science Engineering when he isn't working on projects."
   },
   {
     "name": "KAUSHIK DAS",
     "id": "C202002",
-    "role": "CEO , Developer",
+    "role": "Co-Founder , Developer",
     "image": "/img/SAVE_20190531_232920.webp",
-    "bio": "Kaushik is the mobile-based developer of this website. He is an android app developer and knows java. He has his videography company where he makes videos for many purposes. Currently, he is studying in B.E for CSE."
+    "bio": "Kaushik is a web developer. He is expert in java and data structures. He has his videography company where he makes videos for many purposes. Currently, he is studying in B.E for CSE."
   },
   {
     "name": "GANESH TIWARI",
@@ -23,7 +23,7 @@
   {
     "name": "SHUBHAM RAJ",
     "id": "C202004",
-    "role": "Creative director , Developer",
+    "role": "Developer",
     "image": "/img/shubham.webp",
     "bio": "Shubham is a committed developer, data analyst, and creative critique, driven by zeal & hunger to learn and takes pride in providing the best results possible."
   },
