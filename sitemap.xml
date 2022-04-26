@@ -4,15 +4,23 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-  <loc>https://canwebe.netlify.app/</loc>
-  <lastmod>2020-10-27T10:59:05+00:00</lastmod>
+  <loc>https://canwebe.tech/</loc>
+  <lastmod>2022-04-26T19:41:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://canwebe.netlify.app/projects</loc>
-  <lastmod>2020-10-27T10:59:05+00:00</lastmod>
+  <loc>https://canwebe.tech/projects.html</loc>
+  <lastmod>2022-04-26T19:41:24+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://canwebe.tech/index.html</loc>
+  <lastmod>2022-04-26T19:41:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
